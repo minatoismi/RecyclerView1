@@ -11,4 +11,4 @@
     tools:context="id.sch.smktelkom_mlg.learn.recyclerview1.MainActivity">
 
 
-</>
+</android.support.v7.widget.RecyclerView>
